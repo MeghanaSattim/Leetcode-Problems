@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Sorting
 |  |
