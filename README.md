@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Sorting
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Stack
 |  |
 | ------- |
@@ -128,4 +130,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
