@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0237-delete-node-in-a-linked-list](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 ## Hash Table
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0509-fibonacci-number](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
