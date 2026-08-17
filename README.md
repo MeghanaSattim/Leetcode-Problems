@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Sorting
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Dynamic Programming
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0912-sort-an-array) |
 ## Quicksort
 |  |
 | ------- |
@@ -155,12 +158,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
