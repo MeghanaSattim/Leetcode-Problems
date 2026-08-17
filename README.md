@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Queue
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Array
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Dynamic Programming
 |  |
@@ -98,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Quicksort
 |  |
 | ------- |
@@ -144,4 +149,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0078-subsets) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
