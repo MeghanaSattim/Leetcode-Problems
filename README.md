@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1572-matrix-diagonal-sum](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Sorting
 |  |
@@ -211,4 +212,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [1572-matrix-diagonal-sum](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
