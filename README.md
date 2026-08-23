@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0059-spiral-matrix-ii](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0078-subsets) |
@@ -211,6 +212,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [1572-matrix-diagonal-sum](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/1572-matrix-diagonal-sum) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
