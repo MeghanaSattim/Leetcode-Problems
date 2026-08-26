@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/1768-merge-strings-alternately) |
 ## String
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/1768-merge-strings-alternately) |
 ## Linked List
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Queue
 |  |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
