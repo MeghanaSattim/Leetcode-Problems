@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/1768-merge-strings-alternately) |
+| [2460-apply-operations-to-an-array](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2460-apply-operations-to-an-array](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0682-baseball-game](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0682-baseball-game) |
+| [2460-apply-operations-to-an-array](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
 ## Greedy
 |  |
 | ------- |
