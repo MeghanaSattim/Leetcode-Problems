@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
