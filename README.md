@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0704-binary-search) |
@@ -271,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
