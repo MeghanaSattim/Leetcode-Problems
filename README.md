@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [0131-palindrome-partitioning](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 ## Backtracking
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0216-combination-sum-iii) |
 ## Bracket Sequences
 |  |
