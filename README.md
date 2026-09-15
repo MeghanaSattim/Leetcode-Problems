@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0139-word-break) |
 | [0344-reverse-string](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0189-rotate-array) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 ## Backtracking
@@ -207,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
@@ -262,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0139-word-break) |
 ## Matrix
 |  |
 | ------- |
@@ -296,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0079-word-search) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
