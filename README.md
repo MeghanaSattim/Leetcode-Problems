@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0216-combination-sum-iii) |
 ## Bracket Sequences
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0079-word-search) |
 | [1572-matrix-diagonal-sum](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
@@ -288,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0069-sqrtx) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
