@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1922-count-good-numbers](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/1922-count-good-numbers) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0231-power-of-two](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/1922-count-good-numbers) |
 ## Memoization
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0231-power-of-two) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
