@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0217-contains-duplicate) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -310,4 +312,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0139-word-break) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
