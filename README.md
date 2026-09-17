@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/MeghanaSattim/Leetcode-Problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
